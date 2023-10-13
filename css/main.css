@@ -1,51 +1,58 @@
 body {
-    background-color: #f0f1f2 ;
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 1.4rem;
- 
+  background-color: #f0f1f2;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 1.4rem;
 }
 
 h1 {
-    margin: 0;
-    font-size: 3.5rem;
+  margin: 0;
+  font-size: 3.5rem;
 }
 
 h2 {
-    font-size: 2rem;
+  font-size: 2rem;
 }
 
-.article-text, .top{
-    width: 55%;
-    text-align: justify;
-    line-height: 1.6;
-    margin: auto;
-    
+.article-text,
+.top {
+  width: 70%;
+  text-align: justify;
+  line-height: 1.6;
+  margin: auto;
 }
 
-#forfatter{
-    color:orange;
-    text-decoration: none;
-    font-weight: bold;
-    
+#forfatter {
+  color: rgb(161, 36, 36);
+  text-decoration: none;
+  font-weight: bold;
 }
 
-html{
-    scroll-behavior: smooth;
+.image {
+  width: 100%;
 }
 
-.wrapper{
+.bildetext {
+  font-size: 1rem;
+  font-family: cursive;
+}
 
-    max-width: 100%;
-    padding: 5%;
-    margin: 0 auto;
-    position: relative;
+html {
+  scroll-behavior: smooth;
+}
 
+.wrapper {
+  max-width: 100%;
+  padding: 5%;
+  margin: 0 auto;
+  position: relative;
 }
 
 .secondBody {
-
-    padding: 10%;
-    line-height: 1.4
+  padding: 10%;
+  line-height: 1.4;
 }
 
-
+footer {
+  background-color: grey;
+  color: #f0f1f2;
+}
