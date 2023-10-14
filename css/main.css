@@ -1,0 +1,72 @@
+body {
+  background-color: #f0f1f2;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 1.4rem;
+  margin: 0;
+}
+
+h1 {
+  margin: 0;
+  font-size: 3.5rem;
+}
+
+h2 {
+  font-size: 2rem;
+}
+
+.article-text,
+.top {
+  width: 70%;
+  text-align: justify;
+  line-height: 1.6;
+  margin: auto;
+}
+
+#forfatter {
+  color: rgb(161, 36, 36);
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.image {
+  width: 100%;
+}
+
+.bildetext {
+  font-size: 1rem;
+  font-family: cursive;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.wrapper {
+  max-width: 100%;
+  padding: 5%;
+  margin: 0 auto;
+  position: relative;
+}
+
+.secondBody {
+  padding: 10%;
+  line-height: 1.4;
+}
+
+.footer-container {
+  background-color: grey;
+  color: #f0f1f2;
+}
+
+footer {
+  width: 100%;
+}
+
+#title-center {
+  text-align: center;
+}
+
+.e-mail {
+  text-align: center;
+  justify-content: center;
+}
