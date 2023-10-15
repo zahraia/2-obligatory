@@ -63,6 +63,10 @@ html {
   color: #f0f1f2;
 }
 
+.navn{
+  text-decoration: none;
+  
+}
 footer {
   width: 100%;
 }
