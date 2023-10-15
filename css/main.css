@@ -11,7 +11,7 @@ h1 {
 }
 
 h2 {
-  font-size: 2rem;
+  font-size: 1.7rem;
 }
 
 .article-text,
@@ -34,7 +34,8 @@ h2 {
 
 .bildetext {
   font-size: 1rem;
-  font-family: cursive;
+  margin-top: 3px;
+  font-style: italic;
 }
 
 html {
