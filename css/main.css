@@ -61,12 +61,30 @@ html {
 .footer-container {
   background-color: grey;
   color: #f0f1f2;
+  padding: 1px;
+  display: flex;
 }
 
-.navn{
-  text-decoration: none;
-  
+li {
+  list-style-type: none;
 }
+
+.navn {
+  flex: 1;
+  padding-left: 20%;
+}
+
+.e-mail {
+  flex: 2;
+  padding-left: 20%;
+}
+
+.mailto {
+  text-decoration: none;
+  border-bottom: dotted;
+  color: #f0f1f2;
+}
+
 footer {
   width: 100%;
 }
