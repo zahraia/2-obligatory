@@ -48,6 +48,10 @@ html {
   position: relative;
 }
 
+.link {
+    margin:auto;
+}
+
 .secondBody {
   padding: 10%;
   line-height: 1.4;
