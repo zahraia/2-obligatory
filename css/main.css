@@ -58,6 +58,12 @@ html {
   line-height: 1.4;
 }
 
+.imageto {
+  width: 50%;
+  padding-left: 10%;
+  padding-bottom: 5%;
+}
+
 .footer-container {
   background-color: black;
   color: #f0f1f2;
