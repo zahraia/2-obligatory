@@ -2,6 +2,7 @@ body {
   background-color: #f0f1f2;
   font-family: "Times New Roman", Times, serif;
   font-size: 1.4rem;
+  margin: 0;
 }
 
 h1 {
@@ -52,7 +53,11 @@ html {
   line-height: 1.4;
 }
 
-footer {
+.footer-container {
   background-color: grey;
   color: #f0f1f2;
+}
+
+footer {
+  width: 100%;
 }
